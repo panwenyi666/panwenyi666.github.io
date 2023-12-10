@@ -1,0 +1,32 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body {	font-family: "宋体";font-size: 14px;color: #FFF;line-height: 20px;text-align:left;}
+td,th {font-family: "宋体";font-size: 14px;color: #FFF;}
+a {color: #FFF;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none;}
+.clearit{clear:both;}
+
+.da {width:1000px; margin:0 auto;}
+.xia {margin-top:20px;}
+.zuo {width:200px; float:left; background:#39595e; text-align:center; padding-top:10px;  padding-bottom:30px;}
+.zuo li {width:150px; height:35px; border:1px dashed #FFFFFF; margin:0 auto; margin-top:20px; line-height:35px;}
+.zuo li a {font-size:16px;  font-weight:bold; width:150px; height:35px; display:block; background:#0c292f;}
+.zuo li A:hover{background:#4e7b84;}
+.you {width:780px; float:left; margin-left:20px;  background:#39595e;} 
+.you h2 {width:770px; height:30px; padding-left:10px; line-height:30px; border-bottom:1px solid #FFF; margin-top:20px;}
+.zi {padding:20px;}
+.zi p {line-height:30px; text-indent:2em;}
+.tu {text-align:center;}
+.foot {width:1000px; height:60px;  background:#39595e; margin-top:30px; text-align:center; line-height:60px; font-size:16px;  font-weight:bold; }
+.tt img {margin-left:30px;}
+.you  li {width:246px; float:left; text-align:center; line-height:30px;}
+.you A:hover{ color:#0c292f;}
+.zi td {height:50px;}
+.yi input {width:200px; height:30px;}
+.er input {width:80px; height:30px;}
+.zoom-image {transition: transform 0.3s ease;}
+.zoom-image:hover {transform: scale(1.1);}
+
